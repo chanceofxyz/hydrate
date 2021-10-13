@@ -1,0 +1,22 @@
+{
+  "name": "hydrate",
+  "version": "1.0.0",
+  "description": "generate monte carlo trials from SIPMath spec json file",
+  "main": "hydrate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chanceofxyz/hydrate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chanceofxyz/hydrate/issues"
+  },
+  "homepage": "https://github.com/chanceofxyz/hydrate#readme",
+  "dependencies": {
+    "jstat": "^1.9.5"
+  }
+}
