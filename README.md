@@ -13,3 +13,7 @@ hydrateLibrary(LibraryIn, tokenIn, numberOfTrialsRequested)
 ```
 
 ...where LibraryIn is a json object for an entire SIPMath library, tokenIn is the name of a SIP in that library, and number of trials is well the numer of monte carlo trials you want returned.
+
+### RUN
+
+You can run `hydrateLibrary(LibraryIn, tokenIn, numberOfTrialsRequested)` by opening `run.html` in a web browser and examining console logs.
